@@ -13,5 +13,5 @@ multiples = []
     end
 multiples.inject(:+)
 
-#answer: 233168
+answer: 233168
 
